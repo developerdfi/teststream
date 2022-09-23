@@ -24,7 +24,6 @@
       implementation 'com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtplibrary:2.1.9'
     }
     ```
-- ศึกษาการใช้งานจากตัวอย่างแอป https://drive.google.com/file/d/1Yu84iOCocRFGaSt-y-bptu_H5GkRZfnJ/view?usp=sharing
 # โดยแอปมีการทำงานคร่าวๆดังนี้
 - เรียกใช้งาน lib ให้เชื่อมต่อกับ surfaceview เพื่อแสดงภาพ 
     ```
